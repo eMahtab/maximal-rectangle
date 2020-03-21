@@ -1,1 +1,1 @@
-# maximal-rectangle
+# Maximal Rectangle
