@@ -61,4 +61,6 @@ class Solution {
     }
 }
 ```
-
+# References :
+1. https://tech.pic-collage.com/algorithm-largest-area-in-histogram-84cc70500f0c
+2. Tushar's video on Maximal Rectangle
